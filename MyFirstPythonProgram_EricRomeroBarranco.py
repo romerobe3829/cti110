@@ -1,0 +1,6 @@
+print ('Learning how to write Python programs and run them.')
+print ('September 9th, 2018.')
+print ('CTI-110 Tutorial 1 - My First Python Program.')
+print ('Eric Romero Barranco')
+print (' ')
+print ('This is a test of IDLE.')
